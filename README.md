@@ -1,1 +1,1 @@
-# learning-git-2
+# https://github.com/tashyp/learning-git-2.git
